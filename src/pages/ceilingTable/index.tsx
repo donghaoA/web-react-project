@@ -21,8 +21,8 @@ const ceilingTable = () => {
 
   return (
     <div className="total-page">
-      <header>标题</header>
-      <div className="content">内容</div>
+      <header>标题1</header>
+      <div className="content">内容1</div>
       <table className={isSticky ? "sticky" : ""}>
         <tbody>
           <tr>
