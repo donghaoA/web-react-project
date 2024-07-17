@@ -1,0 +1,9 @@
+.root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+table{
+    border: 1px solid black;
+}
