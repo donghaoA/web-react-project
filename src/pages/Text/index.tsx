@@ -86,6 +86,7 @@ const Text = () => {
       <h1>Table</h1>
       <Table dataSource={dataSource} columns={columns} />
       <h1>Tree</h1>
+      <h1>modal</h1>
     </div>
   );
 };
